@@ -1,0 +1,18 @@
+- name: Fei Fang
+  photo: headshot.jpeg
+  info: Postdoctoral Associate, Yale University
+  email: fei.fang@yale.edu
+  github: https://github.com/fayfang34
+  <!-- researchgate: https://www.researchgate.net/ -->
+  scholar: https://scholar.google.com/citations?user=S3UveZEAAAAJ&hl=en
+  cv: cv/CV_Fei Fang_V14.pdf
+  # Change the items in "education" you have (up to 6)
+  education:
+    [
+      "(2022) Ph.D. Decision Sciences, Duke University",
+      "(2016) M.A.  Statistics, Boston University",
+    ]
+
+  educationshort:
+    ["(2022) Ph.D. Decision Sciences, Duke University", 
+     "(2016) M.A.  Statistics, Boston University"]
