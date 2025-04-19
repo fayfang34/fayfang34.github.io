@@ -32,23 +32,6 @@ github_username:  fayfang34
 # google_analytics_4: XXX
 # google_tag_manager: XXX
 
-# Footer info
-affiliation: >
-  Fei Fang<br/>
-  Postdoctoral Associate <br/>
-  Yale University
-
-location: >
-  Public Health Modeling Unit<br/>
-  350 George Street<br/>
-  New Haven, CT 06510
-
-# Pages shown in navbar
-nav_pages:
-  - name: publications
-  - name: talks
-  - name: teaching
-
 # Build settings
 theme: minima
 plugins:
