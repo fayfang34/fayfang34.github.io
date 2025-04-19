@@ -5,7 +5,7 @@
 layout: default
 ---
 
-## About me
+# About me
 
 Welcome to my website!
 
