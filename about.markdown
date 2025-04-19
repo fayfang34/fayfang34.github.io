@@ -19,7 +19,7 @@ permalink: /about/
 
   <li>Fang, F., Sussman, D. L., & Lyzinski, V. Tractable graph matching via soft seeding. <i>arXiv preprint arXiv:1807.09299</i>, (2018). <a href="https://arxiv.org/abs/1807.09299">Link</a></li>
 
-  <li>Fang, F., Sun, Y., & Spiliopoulos, K. On the effect of heterogeneity on flocking behavior and systemic risk. <i>Statistics & Risk Modeling</i>, 34(3–4), 141–155 (2017). <a href="https://doi.org/10.1515/strm-2017-0010">Link</a></li>
+  <li>Fang, F., Sun, Y., & Spiliopoulos, K. On the effect of heterogeneity on flocking behavior and systemic risk. <i>Statistics & Risk Modeling</i>, 34(3–4), 141–155 (2017). <a href="https://www.degruyterbrill.com/document/doi/10.1515/strm-2016-0013/html">Link</a></li>
 </ol>
 
 
