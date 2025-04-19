@@ -26,6 +26,10 @@ baseurl: ""
 url: ""
 #github_username:  fayfang34
 #google_scholar: "https://scholar.google.com/citations?user=S3UveZEAAAAJ&hl=en"
+contact: >
+  <a href="mailto:fei.fang@yale.edu" target="_blank">Email</a> <br/>
+  <a href="https://scholar.google.com/citations?user=S3UveZEAAAAJ&hl=en" target="_blank">Google Scholar</a> <br/>
+  <a href="https://github.com/fayfang34" target="_blank">GitHub</a>
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
@@ -36,12 +40,6 @@ url: ""
 theme: minima
 plugins:
   - jekyll-feed
-
-contact: >
-  <a href="mailto:fei.fang@yale.edu" target="_blank">Email</a> <br/>
-  <a href="https://scholar.google.com/citations?user=S3UveZEAAAAJ&hl=en" target="_blank">Google Scholar</a> <br/>
-  <a href="https://github.com/fayfang34" target="_blank">GitHub</a>
-
   
 # Exclude from processing.
 # The following items will not be processed, by default.
