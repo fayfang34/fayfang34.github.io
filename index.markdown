@@ -27,6 +27,12 @@ I’d be delighted to connect if any of these interest you!
 
 ## News
 
+- [June 2025]
+I will present our work, “Design-Based Weighted Regression Estimators for Spillover Effects,” co-authored with Laura Forastiere and Edoardo Airoldi, at the Society for Epidemiologic Research (SER) 2025 Annual Meeting, as part of the session titled “Causal Inference: OASS.” The talk is scheduled for Wednesday, June 11, from 5:30–6:00 PM.
+
+- [May 2025]
+I will present our work, “Design-Based Weighted Regression Estimators for Spillover Effects,” co-authored with Laura Forastiere and Edoardo Airoldi, at ACIC 2025 during the Poster Session, scheduled for Wednesday, May 14, from 5:30–7:00 PM.
+
 - [Mar 2025] The second version of our paper, "Neighborhood Adaptive Estimators for Causal Inference under Network Interference," co-authored with Alexandre Belloni and Alexander Volfovsky, is now available on [arXiv](https://arxiv.org/pdf/2212.03683). 
 
 - [Mar 2025] Our paper, "Estimating Direct and Spillover Vaccine Effectiveness with Partial Interference under Test-Negative Design Sampling," co-authored with Cong Jiang, Denis Talbot, and Mireille Schnitzer, is now available on [medRxiv](https://www.medrxiv.org/content/10.1101/2025.02.24.25322826v1.full.pdf).
