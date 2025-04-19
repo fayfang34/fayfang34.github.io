@@ -25,6 +25,7 @@ description: Academic webpage of Fei Fang
 baseurl: ""
 url: ""
 github_username:  fayfang34
+google_scholar: "https://scholar.google.com/citations?user=S3UveZEAAAAJ&hl=en"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
