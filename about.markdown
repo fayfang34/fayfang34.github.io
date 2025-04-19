@@ -13,7 +13,7 @@ permalink: /about/
 
   <li>Wu, Y., & Fang, F. Validating the new nomenclature of steatotic liver disease in patients with excessive alcohol intake. <i>The Lancet Gastroenterology & Hepatology</i>, 9(5), 409 (2024). <a href="https://doi.org/10.1016/S2468-1253(24)00048-7">Link</a></li>
 
-  <li>Wu, Y., Fang, F., Fan, X., & Nie, H. Associations of cannabis use, metabolic dysfunction-associated steatotic liver disease, and liver fibrosis in US adults. <i>Cannabis and Cannabinoid Research</i>, (2024). <a href="[https://doi.org/10.1089/can.2024.0024](https://www.liebertpub.com/doi/full/10.1089/can.2024.0027)">Link</a></li>
+  <li>Wu, Y., Fang, F., Fan, X., & Nie, H. Associations of cannabis use, metabolic dysfunction-associated steatotic liver disease, and liver fibrosis in US adults. <i>Cannabis and Cannabinoid Research</i>, (2024). <a href="https://www.liebertpub.com/doi/full/10.1089/can.2024.0027">Link</a></li>
 
   <li>Belloni, A., Fang, F., & Volfovsky, A. Neighborhood adaptive estimators for causal inference under network interference. <i>arXiv preprint arXiv:2212.03683</i>, (2022). <a href="https://arxiv.org/abs/2212.03683">Link</a></li>
 
