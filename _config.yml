@@ -43,12 +43,6 @@ location: >
   350 George Street<br/>
   New Haven, CT 06510
 
-contact: >
-  <a href="mailto:fei.fang@yale.edu" target="_blank">Email</a> <br/>
-  <a href="https://scholar.google.com/citations?user=S3UveZEAAAAJ&hl=en" target="_blank">Google Scholar</a> <br/>
-  <a href="https://github.com/fayfang34" target="_blank">GitHub</a>
-
-
 # Pages shown in navbar
 nav_pages:
   - name: publications
