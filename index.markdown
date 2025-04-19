@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## About
+# About
 
 Welcome to my website!
 
