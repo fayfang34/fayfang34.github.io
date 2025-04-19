@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About abc
+title: Publications
 permalink: /about/
 ---
 
