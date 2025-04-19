@@ -5,8 +5,6 @@
 layout: home
 ---
 
-## About Me
-
 Welcome to my website!
 
 I am currently a postdoctoral associate in the Department of Biostatistics at Yale University, where I have the privilege of working with Prof. [Laura Forastiere](https://ysph.yale.edu/profile/laura-forastiere/) at Yale and Prof. [Edoardo M. Airoldi](https://airoldi.github.io) at Temple University. I earned my Ph.D. in Decision Sciences from the Fuqua School of Business at Duke University, where I was fortunate to be advised by Prof. [Alexandre Belloni](https://www.fuqua.duke.edu/faculty/alexandre-belloni). Prior to that, I obtained my M.A. in Statistics from Boston University, where I had the pleasure of being advised by Prof. [Daniel Sussman](https://www.bu.edu/math/profile/daniel-sussman/) and Prof. [Konstantinos Spiliopoulos](https://math.bu.edu/people/kspiliop/).
