@@ -49,9 +49,10 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: publications
+  - name: research
   - name: talks
   - name: teaching
+  - name: about
 
 # Build settings
 theme: minima
