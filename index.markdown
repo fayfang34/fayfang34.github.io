@@ -30,6 +30,11 @@ I’d be delighted to [connect](mailto:fei.fang@yale.edu) if any of these intere
 - [June 2025]
 I will present our work, “Design-Based Weighted Regression Estimators for Spillover Effects,” co-authored with Laura Forastiere and Edoardo Airoldi, at the Society for Epidemiologic Research (SER) 2025 Annual Meeting, as part of the session titled “Causal Inference: OASS.” The talk is scheduled for Wednesday, June 11, from 5:30–6:00 PM.
 
+- [June 2025]
+I will present our work, “Design-Based Weighted Regression Estimators for Spillover Effects,” co-authored with Laura Forastiere and Edoardo Airoldi, at New England Statistics Symposium (NESS), as part of the session titled “Advances in Methodologies for Estimating and Leveraging Causal Effects Under Interference in Public Health Studies.” The talk is scheduled for Tuesday, June 3, from 1:20PM-2:50PM.
+
+- [May 2025] Our paper, "Association of Antihypertensive Medication and Steatotic Liver Disease with Liver Fibrosis and Mortality among US Adults," co-authored with Yu Wu, is now available on [medRxiv](https://www.medrxiv.org/content/10.1101/2025.05.20.25328037v1.full.pdf).
+
 - [May 2025]
 I will present our work, “Design-Based Weighted Regression Estimators for Spillover Effects,” co-authored with Laura Forastiere and Edoardo Airoldi, at ACIC 2025 during the Poster Session, scheduled for Wednesday, May 14, from 5:30–7:00 PM.
 
