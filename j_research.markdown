@@ -7,6 +7,8 @@ permalink: /research/
 # Preprints and Publications
 
 <ol reversed>
+  <li>Wu, Y., <b>Fang, F.</b> Association of antihypertensive medication and steatotic liver disease with liver fibrosis and mortality among US adults. <i>medRxiv</i>, (2025). <a href="https://www.medrxiv.org/content/early/2025/05/21/2025.05.20.25328037">Link</a></li>
+  
   <li>Jiang, C., Fang, F., Talbot, D., & Schnitzer, M. E. Estimating direct and spillover vaccine effectiveness with partial interference under test-negative design sampling. <i>medRxiv</i>, (2025). <a href="https://doi.org/10.1101/2025.02.24.25322826">Link</a></li>
 
   <li>Arlotto, A., Belloni, A., Fang, F., & Pekec, S. Ballot design and electoral outcomes: The role of candidate order and party affiliation. <i>Working paper</i>, (2025). <a href="https://people.duke.edu/~aa249/ArlottoBelloniFeiPekec-CandidateOrderAndPartyAffiliation.pdf">Link</a></li>
