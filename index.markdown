@@ -27,6 +27,8 @@ I’d be delighted to [connect](mailto:fei.fang@yale.edu) if any of these intere
 
 ## News
 
+- [Jun 2025] Our paper, "Inward and Outward Spillover Effects of One Unit’s Treatment on Network Neighbors under Partial Interference," co-authored with Edoardo M. Airoldi and Laura Forastiere, is now available on [arXiv](https://arxiv.org/abs/2506.06615).
+
 - [June 2025]
 I will present our work, “Design-Based Weighted Regression Estimators for Spillover Effects,” co-authored with Laura Forastiere and Edoardo Airoldi, at the Society for Epidemiologic Research (SER) 2025 Annual Meeting, as part of the session titled “Causal Inference: OASS.” The talk is scheduled for Wednesday, June 11, from 5:30–6:00 PM.
 
