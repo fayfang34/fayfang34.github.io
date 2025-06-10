@@ -7,6 +7,8 @@ permalink: /research/
 # Preprints and Publications
 
 <ol reversed>
+  <li><b>Fang, F.</b>, Airoldi, E. M., & Forastiere, L. (2025). Inward and outward spillover effects of one unit’s treatment on network neighbors under partial interference. <i>arXiv</i>. <a href="https://arxiv.org/abs/2506.06615">[Online]</a></li>
+
   <li>Wu, Y., <b>Fang, F.</b> Association of antihypertensive medication and steatotic liver disease with liver fibrosis and mortality among US adults. <i>medRxiv</i>, (2025). <a href="https://www.medrxiv.org/content/early/2025/05/21/2025.05.20.25328037">Link</a></li>
   
   <li>Jiang, C., <b>Fang, F.</b>, Talbot, D., & Schnitzer, M. E. Estimating direct and spillover vaccine effectiveness with partial interference under test-negative design sampling. <i>medRxiv</i>, (2025). <a href="https://doi.org/10.1101/2025.02.24.25322826">Link</a></li>
