@@ -8,7 +8,7 @@ permalink: /research/
 
 <ol reversed>
 
-  <li><b>Fang, F.</b>, Bai, S., & Wang, T. (2025). Structural causal models for extremes: An approach based on exponent measures. <i>arXiv</i>. <a href="https://arxiv.org/abs/2507.07671">[Online]</a></li>
+  <li><b>Fang, F.</b>, Bai, S., & Wang, T. (2025). Structural causal models for extremes: An approach based on exponent measures. <i>arXiv</i>. <a href="https://arxiv.org/abs/2508.00223">[Online]</a></li>
   
   <li><b>Fang, F.</b>, Airoldi, E. M., & Forastiere, L. (2025). Inward and outward spillover effects of one unit’s treatment on network neighbors under partial interference. <i>arXiv</i>. <a href="https://arxiv.org/abs/2506.06615">[Online]</a></li>
 
