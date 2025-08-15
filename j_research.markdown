@@ -7,6 +7,9 @@ permalink: /research/
 # Preprints and Publications
 
 <ol reversed>
+
+  <li><b>Fang, F.</b>, Bai, S., & Wang, T. (2025). Structural causal models for extremes: An approach based on exponent measures. <i>arXiv</i>. <a href="https://arxiv.org/abs/2507.07671">[Online]</a></li>
+  
   <li><b>Fang, F.</b>, Airoldi, E. M., & Forastiere, L. (2025). Inward and outward spillover effects of one unit’s treatment on network neighbors under partial interference. <i>arXiv</i>. <a href="https://arxiv.org/abs/2506.06615">[Online]</a></li>
 
   <li>Wu, Y., <b>Fang, F.</b> Association of antihypertensive medication and steatotic liver disease with liver fibrosis and mortality among US adults. <i>medRxiv</i>, (2025). <a href="https://www.medrxiv.org/content/early/2025/05/21/2025.05.20.25328037">Link</a></li>
