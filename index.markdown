@@ -27,6 +27,8 @@ I’d be delighted to [connect](mailto:fei.fang@yale.edu) if any of these intere
 
 ## News
 
+- [Aug 2025] Our paper, "Structural causal models for extremes: An approach based on exponent measures," co-authored with Shuyang Bai and Tiandong Wang, is now available on [arXiv](https://arxiv.org/abs/2508.00223).
+
 - [Jun 2025] Our paper, "Inward and Outward Spillover Effects of One Unit’s Treatment on Network Neighbors under Partial Interference," co-authored with Edoardo M. Airoldi and Laura Forastiere, is now available on [arXiv](https://arxiv.org/abs/2506.06615).
 
 - [June 2025]
